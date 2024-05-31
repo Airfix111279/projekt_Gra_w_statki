@@ -22,9 +22,9 @@ To jest prosta tekstowa implementacja klasycznej gry w Statki, gdzie dwóch grac
 ### Jak Uruchomić
 1. Sklonuj repozytorium:
    ```sh
-   git clone https://github.com/twoja-nazwa-uzytkownika/battleship-game.git
+   git clone https://github.com/Airfix111279/Gra_w_statki.git
 2. Przejdź do katalogu projektu:
-cd battleship-game
+cd Gra_w_statki
 3. Skompiluj plik źródłowy Java:
 javac Gra_w_statki.java
 4. Uruchom aplikację:
